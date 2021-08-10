@@ -12,6 +12,6 @@
 
 <?php if (!$url->notFound()): ?>
 <div class="text-right mt-5">
-	<a class="btn btn-primary" target="_blank" href="<?php echo $GITHUB_BASE_URL.$page->key().'/'.$FILENAME ?>"><?php echo $language->get('Help make this page better.'); ?></a>
+	<a class="btn btn-primary" target="_blank" href="<?php echo $GITHUB_BASE_URL.$page->key().'/'.$FILENAME ?>"><?php echo $language->get('Help Make This Page Better'); ?></a>
 </div>
 <?php endif ?>
