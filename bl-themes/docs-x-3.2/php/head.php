@@ -10,8 +10,9 @@
 
 <!-- Favicon -->
 <!-- <?php echo Theme::favicon('img/favicon.png'); ?> -->
+
 <meta name="title" content="UbuntuCE -- Documentation" />
-<meta name="description" content="UbuntuCE Documentation" />
+<meta name="description" content="Ubuntu Christian Edition Documentation" />
 <link rel="apple-touch-icon" sizes="180x180" href="/bl-themes/docs-x-3.2/img/apple-touch-icon.png" />
 <link rel="icon" type="image/png" sizes="32x32" href="/bl-themes/docs-x-3.2/img/favicon-32x32.png" />
 <link rel="icon" type="image/png" sizes="16x16" href="/bl-themes/docs-x-3.2/img/favicon-16x16.png" />
@@ -23,13 +24,13 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://docs.ubuntuce.com/" />
 <meta property="og:title" content="UbuntuCE -- Documentation" />
-<meta property="og:description" content="UbuntuCE Documentation" />
+<meta property="og:description" content="Ubuntu Christian Edition Documentation" />
 <meta property="og:image" content="https://docs.ubuntuce.com/bl-themes/docs-x-3.2/img/bible-laptop.jpg" />
 
 <meta property="twitter:card" content="summary_large_image" />
 <meta property="twitter:url" content="https://ubuntuce.com/" />
 <meta property="twitter:title" content="UbuntuCE Documentation" />
-<meta property="twitter:description" content="UbuntuCE Documentation" />
+<meta property="twitter:description" content="Ubuntu Christian Edition Documentation" />
 <meta property="twitter:image" content="https://docs.ubuntuce.com/bl-themes/docs-x-3.2/img/bible-laptop.jpg" />
 
 <!-- Include Bootstrap CSS file bootstrap.css -->
