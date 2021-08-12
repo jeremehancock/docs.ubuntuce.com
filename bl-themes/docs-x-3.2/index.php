@@ -126,6 +126,24 @@
 
 	<!-- Load Bludit Plugins: Site Body End -->
 	<?php Theme::plugins('siteBodyEnd'); ?>
+	
+	<!-- Default Statcounter code for UbuntuCE Documentation
+https://docs.ubuntuce.com -->
+<script type="text/javascript">
+var sc_project=12578815; 
+var sc_invisible=1; 
+var sc_security="cb48e6a9"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12578815/0/cb48e6a9/1/"
+alt="Web Analytics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
 
 </body>
 </html>
