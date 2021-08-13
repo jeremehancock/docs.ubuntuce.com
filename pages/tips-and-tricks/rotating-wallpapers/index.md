@@ -1,3 +1,0 @@
-# Rotating Wallpapers
-
-## test
