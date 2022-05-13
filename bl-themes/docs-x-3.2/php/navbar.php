@@ -1,5 +1,6 @@
 <nav class="navbar fixed-top navbar-expand-md navbar-dark bg-dark" style="padding: 0.5rem 0 0.5rem;">
 	<div class="container-fluid" style="justify-content: flex-start;">
+	    <img src="https://raw.githubusercontent.com/jeremehancock/repo.ubuntuce.com/main/logo.png" />
 	    <div class="b-burger-btn"><i></i><b></b></div>
 		<a class="navbar-brand" href="<?php echo $site->url() ?>">
 			<span class="text-white"><?php echo $site->title() ?></span>
