@@ -1,5 +1,5 @@
 <nav class="navbar fixed-top navbar-expand-md navbar-dark bg-dark">
-	<div class="container-fluid">
+	<div class="container-fluid" style="justify-content: flex-start;">
 	    <div class="b-burger-btn"><i></i><b></b></div>
 		<a class="navbar-brand" href="<?php echo $site->url() ?>">
 			<span class="text-white"><?php echo $site->title() ?></span>
