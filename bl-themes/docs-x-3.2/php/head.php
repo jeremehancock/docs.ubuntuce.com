@@ -25,13 +25,13 @@
 <meta property="og:url" content="https://docs.ubuntuce.com/" />
 <meta property="og:title" content="UbuntuCE -- Documentation" />
 <meta property="og:description" content="Ubuntu Christian Edition Documentation" />
-<meta property="og:image" content="https://docs.ubuntuce.com/bl-themes/docs-x-3.2/img/bible-laptop.jpg" />
+<meta property="og:image" content="https://docs.ubuntuce.com/bl-themes/docs-x-3.2/img/welcome-to-ubuntuce.png" />
 
 <meta property="twitter:card" content="summary_large_image" />
 <meta property="twitter:url" content="https://ubuntuce.com/" />
 <meta property="twitter:title" content="UbuntuCE Documentation" />
 <meta property="twitter:description" content="Ubuntu Christian Edition Documentation" />
-<meta property="twitter:image" content="https://docs.ubuntuce.com/bl-themes/docs-x-3.2/img/bible-laptop.jpg" />
+<meta property="twitter:image" content="https://docs.ubuntuce.com/bl-themes/docs-x-3.2/img/welcome-to-ubuntuce.png" />
 
 <!-- Include Bootstrap CSS file bootstrap.css -->
 <?php echo Theme::cssBootstrap(); ?>
