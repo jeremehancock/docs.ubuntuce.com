@@ -1,7 +1,7 @@
 <nav class="navbar fixed-top navbar-expand-md navbar-dark bg-dark" style="padding: 0.5rem 0 0.5rem;">
 	<div class="container-fluid" style="justify-content: flex-start;">
-	    <img src="https://raw.githubusercontent.com/jeremehancock/repo.ubuntuce.com/main/logo.png" width="50" style="margin-left: 10px; margin-right: 10px;">
 	    <div class="b-burger-btn"><i></i><b></b></div>
+	    <img src="https://raw.githubusercontent.com/jeremehancock/repo.ubuntuce.com/main/logo.png" width="50" style="margin-left: 10px; margin-right: 10px;">
 		<a class="navbar-brand" href="<?php echo $site->url() ?>">
 			<span class="text-white"><?php echo $site->title() ?></span>
 		</a>
